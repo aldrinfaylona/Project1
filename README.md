@@ -2,4 +2,7 @@
 https://github.com/aldrinfaylona/Project1.git
 
 
-afsadf
+A. Comparing the number of dives per day of the shallow profiller vs deep profiler.
+  
+  For the Oregon Offshore Cabled Shallow and Deep Profiler Mooring, 
+  ![](C:\Users\Lenovo\Desktop\Winter 2020)
