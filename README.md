@@ -5,8 +5,8 @@ https://github.com/aldrinfaylona/Project1.git
 A. Comparing the number of dives per day of the shallow profiller vs deep profiler.
   For the Oregon Offshore Cabled Shallow and Deep Profiler Mooring, 
  
-![alt-text-1](https://github.com/aldrinfaylona/Project1/blob/master/Graphs/AxialDeepSummertime.png) ![alt-text-2](https://github.com/aldrinfaylona/Project1/blob/master/Graphs/AxialShallowSummertime.png)
-![alt-text-1](https://github.com/aldrinfaylona/Project1/blob/master/Graphs/AxialDeep_Time_vs_Pressure.png) ![alt-text-2](https://github.com/aldrinfaylona/Project1/blob/master/Graphs/AxialShallowstime.png)
+![alt-text-1](https://github.com/aldrinfaylona/Project1/blob/master/CTDgraphs/AxialDeepSummertime.png) ![alt-text-2](https://github.com/aldrinfaylona/Project1/blob/master/CTDgraphs/AxialShallowSummertime.png)
+![alt-text-1](https://github.com/aldrinfaylona/Project1/blob/master/CTDgraphs/AxialDeepWintertime.png) ![alt-text-2](https://github.com/aldrinfaylona/Project1/blob/master/CTDgraphs/AxialShallowWintertime.png)
  Graphing time vs. depth data would inform us how many dives each instrument went which was being run by Ocean Observatory Initiative. 
 Looking at the summer graphs and winter graphs, we can see that both intrument have quite the same graphs. Going in the deeper part of the ocean gives us 2 dives nad 7 dives for going into the shallow area. This makes sense that we have more dives on deeper part since it takes longer for the experiement to get down to a depth of around 2500meters compare to only around 175meters for the shallow area.
 
