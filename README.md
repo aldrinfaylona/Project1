@@ -11,6 +11,7 @@ A. Comparing the number of dives per day of the shallow profiller vs deep profil
 Looking at the summer graphs and winter graphs, we can see that both intrument have quite the same graphs. Going in the deeper part of the ocean gives us 2 dives nad 7 dives for going into the shallow area. This makes sense that we have more dives on deeper part since it takes longer for the experiement to get down to a depth of around 2500meters compare to only around 175meters for the shallow area.
 
 ![alt-text-1](https://github.com/aldrinfaylona/Project1/blob/master/Graphs/OregonOffshoreDeepSummertime.png) ![alt-text-2](https://github.com/aldrinfaylona/Project1/blob/master/Graphs/OregonOffshoreShallowSummertime.png)
+
 ![alt-text-1](https://github.com/aldrinfaylona/Project1/blob/master/Graphs/OregonOffshoreDeeptime.png) ![alt-text-2](https://github.com/aldrinfaylona/Project1/blob/master/Graphs/OregonOffshoreShallowtime.png)
 
 B. Maximum values of ssp in each season? Explain why max ssp should be there?
