@@ -1,7 +1,6 @@
 # Project1
 https://github.com/aldrinfaylona/Project1.git
 
-
 A. Comparing the number of dives per day of the shallow profiller vs deep profiler.
   For the Axial Shallow and Deep Profiler, 
  
